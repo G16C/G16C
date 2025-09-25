@@ -74,8 +74,6 @@ class G16C:
 
 ## 🌱 Learning Journey
 
-## 🌱 Learning Journey
-
 ```mermaid
 graph LR
     A[Software Engineering @ UnB] --> B[Core Programming Languages]
@@ -85,7 +83,6 @@ graph LR
     E --> F[Data Scientist Goal]
     D --> G[COBOL Adventure]
     G --> H[Full Stack Developer]
-```
 
 ## 💡 Fun Facts
 
