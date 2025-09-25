@@ -6,6 +6,9 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 typescript
 
+# 👋 About Me
+
+```js
 const aboutMe = {
   name: "Gabriel Campello Marques",
   username: "G16C",
@@ -17,7 +20,11 @@ const aboutMe = {
   lifePhilosophy: "Every problem is just a puzzle waiting to be solved!"
 };
 
-<details> <summary>🎯 <b>My Journey</b></summary> <br> I'm a passionate software engineer who loves the thrill of solving complex problems. Whether it's debugging code at 3 AM or strategizing in a card game, I'm always up for a challenge! Currently diving deep into the world of data science because I believe data tells the most fascinating stories.
+<details> <summary>🎯 <b>My Journey</b></summary> <br> I'm a passionate software engineer who loves the thrill of solving complex problems. Whether it's debugging code at 3 AM or strategizing in a card game, I'm always up for a challenge!
+
+Currently diving deep into the world of data science because I believe data tells the most fascinating stories.
+
+</details> ```
 
 When I'm not coding, you'll find me:
 
