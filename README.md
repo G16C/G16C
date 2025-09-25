@@ -17,7 +17,7 @@ class G16C:
         self.education = "Software Engineering @ UnB"
         self.location = "Brasília, Brazil"
         self.current_focus = "Data Science"
-        self.dream_language = "COBOL"  # Yes, really! 😄
+        self.dream_language = "COBOL"  
         
     def get_current_languages(self):
         return ["Python", "Java", "C++", "JavaScript", "CSS", "HTML"]
