@@ -74,6 +74,8 @@ class G16C:
 
 ## 🌱 Learning Journey
 
+## 🌱 Learning Journey
+
 ```mermaid
 graph LR
     A[Software Engineering @ UnB] --> B[Core Programming Languages]
